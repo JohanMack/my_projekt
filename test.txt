@@ -30,4 +30,5 @@ a
 d
 stasha denna xddd
 
+Nu ska vi testa stash
 
